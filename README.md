@@ -16,6 +16,13 @@ Currently a student of the 42 school in Paris, passionate about chess and algori
 <img src="https://img.shields.io/badge/c%20-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/c++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/slack%20-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/vscode%20-007ACC.svg?&style=for-the-badge&logo=slack&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/git%20-F050532.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF"/>
 
 ---
+### 👷 Check out what I'm currently working on
+
+- [Jean-EmmanuelP/42_Philosopher]([https://github.com/ChrisTitusTech/mybash](https://github.com/Jean-EmmanuelP/42_Philosopher)) - A project from School 42.
+- [ChrisTitusTech/hyprland-titus](https://github.com/ChrisTitusTech/hyprland-titus) - Trying to implement this setup in my Laptop
+- [Chess.com]([https://github.com/ChrisTitusTech/neovim](https://www.chess.com/game/live/68989710943)) - Trying to be 1600
+- [Jean-EmmanuelP/PushSwap]([https://github.com/ChrisTitusTech/powershell-profile](https://github.com/Jean-EmmanuelP/Push-Swap)) - Testing my Push_Swap, doing a checker and checking for the pros and cons of sorting algorithms
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-EmmanuelP&show_icons=true&theme=city_lights)
 
 ---
