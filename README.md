@@ -18,10 +18,10 @@ Currently a student of the 42 school in Paris, passionate about chess and algori
 ---
 ### 👷 Check out what I'm currently working on
 
-- [Jean-EmmanuelP/42_Philosopher]([https://github.com/ChrisTitusTech/mybash](https://github.com/Jean-EmmanuelP/42_Philosopher)) - A project from School 42.
+- [Jean-EmmanuelP/42_Philosopher](https://github.com/Jean-EmmanuelP/42_Philosopher) - Starting this project from 42 School.
 - [ChrisTitusTech/hyprland-titus](https://github.com/ChrisTitusTech/hyprland-titus) - Trying to implement this setup in my Laptop
-- [Chess.com]([https://github.com/ChrisTitusTech/neovim](https://www.chess.com/game/live/68989710943)) - Trying to be 1600
-- [Jean-EmmanuelP/PushSwap]([https://github.com/ChrisTitusTech/powershell-profile](https://github.com/Jean-EmmanuelP/Push-Swap)) - Testing my Push_Swap, doing a checker and checking for the pros and cons of sorting algorithms
+- [Chess.com](https://www.chess.com/game/live/68989710943) - Trying to be 1600
+- [Jean-EmmanuelP/PushSwap](https://github.com/Jean-EmmanuelP/Push-Swap) - Testing my Push_Swap, doing a checker and checking for the pros and cons of sorting algorithms
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-EmmanuelP&show_icons=true&theme=city_lights)
 
