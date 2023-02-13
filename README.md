@@ -20,7 +20,7 @@ Currently a student of the 42 school in Paris, passionate about chess and algori
 
 - [Jean-EmmanuelP/42_Philosopher](https://github.com/Jean-EmmanuelP/42_Philosopher) - Starting this project from 42 School.
 - [ChrisTitusTech/hyprland-titus](https://github.com/ChrisTitusTech/hyprland-titus) - Trying to implement this setup in my Laptop
-- [Chess.com](https://www.chess.com/game/live/68989710943) - Trying to be 1600
+- [Chess.com](https://www.chess.com/game/live/68989710943) - Trying to be 1700 - actually 1608
 - [Jean-EmmanuelP/PushSwap](https://github.com/Jean-EmmanuelP/Push-Swap) - Testing my Push_Swap, doing a checker and checking for the pros and cons of sorting algorithms
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-EmmanuelP&show_icons=true&theme=city_lights)
