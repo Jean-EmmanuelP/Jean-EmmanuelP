@@ -1,3 +1,5 @@
+### Resume
+
 I'm a 21-year-old who loves to create, think, and learn. Currently, I'm learning HTML, CSS, and JavaScript on Codecademy to become a great full-stack web developer. I'm also a student at 42 where I work on challenging programming projects to improve my skills. I'm always looking for new opportunities to learn and grow as a web developer. If you're looking for a motivated and humble developer for your team, feel free to contact me. Let's discuss your projects!
 
 "Done by ChatGPT, my faithful friend."
