@@ -36,11 +36,6 @@
 </p>
 
 ---------------
-| [![Jean-EmmanuelP
- GitHub stats](https://github-readme-stats.vercel.app/api?username=achrafelkhnissi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/Jean-EmmanuelP?tab=repositories) | [![Jean-EmmanuelP
- most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=dark)](https://github.com/Jean-EmmanuelP?tab=repositories) |
-|:-:|:-:|
-
 <p align="center">
 	<img alt="jperrama's visitors" src="https://komarev.com/ghpvc/?username=Jean-EmmanuelP
 &color=8c36db&style=flat&label=visitors" />
