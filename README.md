@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/jperrama?1337Badge=off&UM6P=off" alt="jperrama's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/dark/jperrama?1337Badge=off&UM6P=off" alt="jperrama's 42 stats" /></a>
 </p>
 
 <pre>
