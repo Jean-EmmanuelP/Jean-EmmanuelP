@@ -1,4 +1,4 @@
->  Software engineer student at [42](https://42.fr/) \
+>  Software engineer student at [42](https://42.fr/) 
 
 
 <p align="center">
