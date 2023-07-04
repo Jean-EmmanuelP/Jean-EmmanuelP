@@ -36,11 +36,3 @@
 </p>
 
 ---------------
-<p align="center">
-	<img alt="jperrama's visitors" src="https://komarev.com/ghpvc/?username=Jean-EmmanuelP
-&color=8c36db&style=flat&label=visitors" />
-	<img alt="jperrama's followers" src="https://img.shields.io/github/followers/Jean-EmmanuelP?color=black" />
-	<img alt="jperrama's stars" src="https://img.shields.io/github/stars/Jean-EmmanuelP?color=black" />
-</p>
-
----------------
