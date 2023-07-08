@@ -5,7 +5,6 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/dark/jperrama?1337Badge=off&UM6P=off" alt="jperrama's 42 stats" /></a>
 </p>
 <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="jperrama"/>
-https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif
 <pre>
 
 ┌──┤ WHOAMI ├─────────▰▰▰
