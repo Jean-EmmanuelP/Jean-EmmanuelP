@@ -17,7 +17,6 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://www.instagram.com/jean.emp">Instagram</a>
 ├─◈ Discord: jeanemmanuelp
 │
 └───────────────────────────────▰▰▰
