@@ -12,7 +12,7 @@ From 42 School, I focus on developing my skills in full-stack web development. H
 
 ### Transcendence - Backend
 - **[GitHub](https://github.com/Jean-EmmanuelP/Transcendence---Back)**
-- Server-side backend solutions.
+- Server-side backend solutions using NestJS.
 
 Feedback and collaborations are welcome.
 ---
