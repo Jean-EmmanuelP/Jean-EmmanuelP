@@ -1,4 +1,5 @@
-# Full-Stack Web Development Projects
+# Full-Stack Web Development Projects 
+
 
 From 42 School, I focus on developing my skills in full-stack web development. Here's a look at some of my projects.
 
