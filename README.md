@@ -1,7 +1,18 @@
-Passion for Full-Stack Web Application Development
+# Full-Stack Web Development Projects
 
-Last Projects:
+From 42 School, I focus on developing my skills in full-stack web development. Here's a look at some of my projects.
 
-https://github.com/Jean-EmmanuelP/RandomUserGenerator_API
-https://github.com/Jean-EmmanuelP/Transcendence--Svelte-Front
-https://github.com/Jean-EmmanuelP/Transcendence---Back
+### Random User Generator API
+- **[GitHub](https://github.com/Jean-EmmanuelP/RandomUserGenerator_API)** | **[Live Demo](https://random-user-generator-api-eta.vercel.app/)**
+- API for random user data generation.
+
+### Transcendence - Frontend
+- **[GitHub](https://github.com/Jean-EmmanuelP/Transcendence--Svelte-Front)** | **[Live Demo](https://42pong.com/login)**
+- Interactive frontend using Svelte.
+
+### Transcendence - Backend
+- **[GitHub](https://github.com/Jean-EmmanuelP/Transcendence---Back)**
+- Server-side backend solutions.
+
+Feedback and collaborations are welcome.
+---
