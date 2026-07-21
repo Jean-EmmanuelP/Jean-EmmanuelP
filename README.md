@@ -31,6 +31,5 @@ I'm a transversal engineer: I own the whole chain — mobile UI, backend, cloud 
 
 ## 📫 Reach me
 
-- 🌐 [jperrama.com](https://www.jperrama.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jean-emmanuel-perramant/)
 - ✉️ jperrama@gmail.com
