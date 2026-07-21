@@ -1,5 +1,3 @@
-<img src="me.png" align="right" width="150" alt="Jean-Emmanuel Perramant" />
-
 # Hey, I'm Jean-Emmanuel 👋
 
 **I build mobile apps people actually use.**
