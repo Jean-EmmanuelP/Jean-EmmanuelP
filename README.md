@@ -9,7 +9,6 @@ I'm a transversal engineer: I own the whole chain — mobile UI, backend, cloud 
 ## 🚀 What I've shipped
 
 - 🏋️ **BeStrong** — fitness app, React Native/Expo · **400,000+ users**
-- ⛳ **Golf Circle** — social & matchmaking app for golfers (iOS/Android, Expo + Convex), launching in Scottsdale, AZ
 - 🧠 AI products — voice coaches, RAG pipelines, agents (Claude API, Deepgram, Groq)
 
 ## 🛠 How I work
