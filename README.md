@@ -1,34 +1,11 @@
-# Hey, I'm Jean-Emmanuel 👋
+# Jean-Emmanuel Perramant
 
-**I build mobile apps people actually use.**
+Mobile engineer. I build React Native / Expo apps and take them all the way to production: backend, infrastructure, CI/CD, App Store.
 
-My specialty is **React Native + Expo** — taking a product from idea to the App Store & Play Store, fast. The last app I shipped, **[BeStrong](https://bestrong-app.com)**, a fitness app, grew to **400,000+ users**.
+I was CTO at BeStrong, a fitness app with 400,000+ users on iOS and Android. I led the mobile app, the backend on AWS, and the release pipeline. That code lives in the company's private GitLab, so this profile only shows part of my work.
 
-I'm a transversal engineer: I own the whole chain — mobile UI, backend, cloud infra, and the CI/CD pipeline that ships it.
+Currently building Golf Circle, a social app for golfers — React Native, Expo, Convex — in App Store review.
 
-## 🚀 What I've shipped
+**Stack** — React Native, Expo, TypeScript, Swift · Convex, Node, Python, PostgreSQL · AWS, Docker · GitHub Actions, GitLab CI, Fastlane
 
-- 🏋️ **BeStrong** — fitness app, React Native/Expo · **400,000+ users**
-- 🧠 AI products — voice coaches, RAG pipelines, agents (Claude API, Deepgram, Groq)
-
-## 🛠 How I work
-
-| | |
-|---|---|
-| **Mobile** | React Native, Expo, TypeScript, Swift/SwiftUI |
-| **Backend** | Convex, Supabase, Node (Hono), Python, PostgreSQL |
-| **Cloud & Infra** | AWS, Vercel, Cloudflare |
-| **CI/CD** | GitHub Actions, EAS, Fastlane, TestFlight/Play pipelines |
-
-## 📊 GitHub
-
-<a href="https://github.com/Jean-EmmanuelP">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jean-EmmanuelP&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-</a>
-
-> A lot of my work ships from private repos — the graph only tells part of the story.
-
-## 📫 Reach me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jean-emmanuel-perramant/)
-- ✉️ jperrama@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jean-emmanuel-perramant/) · jperrama@gmail.com
